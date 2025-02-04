@@ -1,0 +1,15 @@
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\bin\Debug\net9.0\dijkstraApp.exe
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\bin\Debug\net9.0\dijkstraApp.deps.json
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\bin\Debug\net9.0\dijkstraApp.runtimeconfig.json
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\bin\Debug\net9.0\dijkstraApp.dll
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\bin\Debug\net9.0\dijkstraApp.pdb
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.AssemblyInfoInputs.cache
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.AssemblyInfo.cs
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.csproj.CoreCompileInputs.cache
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.sourcelink.json
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.dll
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\refint\dijkstraApp.dll
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.pdb
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\dijkstraApp.genruntimeconfig.cache
+C:\Users\W I N D O W S\OneDrive - Institut Teknologi Sepuluh Nopember\Dokumen\GitHub\Djikstra-Algorithm-Find-Shortest-Path\dijkstraApp\obj\Debug\net9.0\ref\dijkstraApp.dll
